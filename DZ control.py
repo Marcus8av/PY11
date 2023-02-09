@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 a, b, c, d, e = -12, -18, 5, 10, -30
-limit = 10
+limit = 100
 step = 0.01
 step_acr = 0.0001
 line_style = '-'
